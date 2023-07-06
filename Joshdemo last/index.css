@@ -298,7 +298,7 @@ footer .footersocialicons a{
 
   .haqqimizda{
     width:100%;
-    height:auto;
+    height:80vh;
     margin-top: 100px;
     align-items:center;
     display:flex;
@@ -306,7 +306,7 @@ footer .footersocialicons a{
    
     color:white;
     justify-content:space-around;
-    font-size:15px;
+    font-size:19px;
     text-align:center;
     background-repeat: no-repeat;
     background-size: cover;
