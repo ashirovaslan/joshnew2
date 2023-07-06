@@ -373,7 +373,7 @@ footer .footersocialicons a{
         background-attachment: fixed;
     }
     .haqqimizda p{
-        width:80%;
+        width:100%;
     }
  
   }
@@ -387,14 +387,14 @@ footer .footersocialicons a{
    
     color:white;
     justify-content:space-around;
-    font-size:30px;
+    font-size:15px;
     text-align:center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
   }
   .haqqimizda p{
-    width:40%;
+    width:50%;
   }
   .haqqimizda video{
     position:fixed;
